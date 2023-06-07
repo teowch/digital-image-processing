@@ -23,19 +23,8 @@ All of them were created using Python, focusing on OpenCV and NumPy libraries.
 - JPEG
 
 ## Works
-- [Rice Counter](https://github.com/teowch/rice-counter)
-  - A rice counter implemented using binarization by thresholding and segmentation
-- [Blur Techniques](https://github.com/teowch/blur-techniques)
-  - Implementation of some blur algorithms
-    - Box Blur
-    - Separable Box Blur
-    - Integral Image Blur
-- [Bloom](https://github.com/teowch/bloom)
-  - Bloom Lightning implementation
-- [Rice Counter Improved](https://github.com/teowch/rice-counter-improved)
-  - An improved version of [Rice Counter](https://github.com/teowch/rice-counter) using some statistical analysis
-- Chroma Key
-  - Chroma Key implementation
-- Cash Identifier
-  - BRL note identifier
-  - Implemented using a SVM (Support Vector Machine)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teowch&repo=rice-counter&theme=midnight-purple)](https://github.com/teowch/rice-counter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teowch&repo=blur-techniques&theme=midnight-purple)](https://github.com/teowch/blur-techniques)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teowch&repo=bloom&theme=midnight-purple)](https://github.com/teowch/bloom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=teowch&repo=rice-counter-improved&theme=midnight-purple)](https://github.com/teowch/rice-counter-improved)
